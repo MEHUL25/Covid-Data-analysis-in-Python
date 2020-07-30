@@ -1,0 +1,20 @@
+Project is completed in following tasks:
+
+Introduction
+Importing Covid19 dataset
+Finding a good Measure
+Importing and preparing World happiness report dataset
+Merge two datasets and find correlations among your data
+Visualize your results using Seaborn
+
+
+In this project :
+I have used 
+
+1)Seaborn tool for Ploting : Scatter graph and log(y) as the graph didnot had scattering effect as values on y axis were very less.using log(y) the values of y were maximised.
+
+2)We have calculated maxima for each country using diiferentiation(diff()) and scraped the data sets.
+
+3)Then merged the data sets and calculated correlation using correlation matrix.
+
+4)Simply plotted the correlation of 1 factor vs the maximum infected rate.
